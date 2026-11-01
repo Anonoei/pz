@@ -1,0 +1,10 @@
+# build output
+*.jar
+*.class
+out/
+
+# editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
